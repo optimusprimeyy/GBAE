@@ -1,0 +1,14 @@
+# Python 相关
+__pycache__/
+*.py[cod]
+*.pth
+*.egg-info/
+.venv/
+env/
+# 实验数据
+*.mat
+*.xlsx
+*.npz
+# 系统文件
+.DS_Store
+*.log
